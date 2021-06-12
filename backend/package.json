@@ -7,9 +7,9 @@
     "start": "ts-node src/server.ts",
     "build": "rm -rf build/ && prettier --write source/ && tsc"
   },
-  "engines":{
-    "node":"15.9.0"
- },
+  "engines": {
+    "node": "15.9.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
