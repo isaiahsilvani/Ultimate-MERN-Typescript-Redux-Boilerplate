@@ -1,5 +1,5 @@
 # Typescript React Node + Redux w/ simple Heroku deployment
-A boilerplate for a full stack application using Typescript, React, Node, and MongoDB. Made to be easy and simple so you can build awesome things faster! Feel free to contribute with your own additions to make this a truly epic boilerplate.
+A boilerplate for a full stack application using Typescript, React, Node, and MongoDB. Made to be easy and simple so you can build awesome things faster! Preconfigured for a hassle-free deployment to Heroku.
 ## Setup
 1. git clone
 2. cd
