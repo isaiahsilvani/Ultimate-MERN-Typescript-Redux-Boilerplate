@@ -8,6 +8,10 @@ A boilerplate for a full stack application using Typescript, React, Node, and Mo
 5. npm install
 6. touch .env (in backend directory) and input your DATABASE_URL connection string
 
+### Local Development
+1. npm start
+2. nodemon backend/src/server.ts
+
 ### Heroku Deployment
 1. Heroku create
 2. g push heroku main
